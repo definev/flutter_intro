@@ -1,0 +1,62 @@
+name: flutter_intro
+description: Presentation about Flutter implemented using Flutter.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flare_flutter: ^3.0.0
+  flutter:
+    sdk: flutter
+  flutter_card_swipper: ^0.4.0
+  flutter_svg: ^0.21.0+1
+  lint: ^1.5.3
+  web_browser: ^0.5.0
+  youtube_player_iframe: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/images/hot_reload.gif
+    - assets/images/apps/alibaba.png
+    - assets/images/apps/ebay.png
+    - assets/images/apps/google_ads.png
+    - assets/images/apps/google_assistant.png
+    - assets/images/apps/hamilton.png
+    - assets/images/apps/insight_timer.png
+    - assets/images/apps/nubank.png
+    - assets/images/apps/philips.png
+    - assets/images/apps/realtor.png
+    - assets/images/apps/reflectly.png
+    - assets/images/apps/stadia.png
+    - assets/images/apps/the_new_york_times.png
+    - assets/images/community/flutter_community.png
+    - assets/images/community/flutteristas.jpeg
+    - assets/images/community/pub_dev.png
+    - assets/images/flutter_for_mobile/flutter_architecture.png
+    - assets/images/flutter_for_mobile/platform_channels.png
+    - assets/images/flutter_for_toaster/apple_tv.gif
+    - assets/images/flutter_for_toaster/raspberry_pi.jpeg
+    - assets/images/flutter_for_toaster/toyota.png
+    - assets/images/flutter_vs_rn/google_trends.png
+    - assets/images/flutter_vs_rn/has_flutter_passed_rn.png
+    - assets/images/flutter_vs_rn/rn_architecture.png
+    - assets/images/about_me.jpg
+    - assets/images/awesome_flutter.png
+    - assets/images/dart_dev_tools.gif
+    - assets/images/drawbacks_of_flutter.png
+    - assets/images/flutter_is_the_future.png
+    - assets/images/flutter_web_architecture.png
+    - assets/images/google_logo.png
+    - assets/images/meme.jpg
+    - assets/images/transition_to_flutter.png
+    - assets/images/ubuntu_flutter_installer.jpeg
+    - assets/flare/Teddy.flr
